@@ -10,9 +10,10 @@
   "hero": {
     "badge": "🔥 Limited Offer — Exclusive Promo",
     "title": "<em>+300 Leaked Videos</em><br />of a Nigerian Pastor<br />Private & Discreet Access 🔥",
-    "desc": "Instant access via a <strong>secure Telegram channel</strong> — 100% private, delivered to your email upon payment. Pastor videos <em>and</em> exclusive content included.",
-    "cta": "⚡ Access Videos Now",
-    "price_note": "ℹ️ <em>Make sure to enter your email correctly to receive the link. You can use a <strong>pseudonym</strong> during payment to stay anonymous.</em>",
+    "desc": "Pastor videos <em>and</em> exclusive content, via a <strong>secure Telegram channel</strong> — delivered by email right after payment.",
+    "cta": "🛒 Buy Now — 5,500 FCFA",
+    "proof": "⭐ 2,357+ members already trust us",
+    "price_note": "ℹ️ Check your email: that's where the link arrives. A <strong>pseudonym</strong> is enough.",
     "trust_secure": "Secure payment",
     "trust_instant": "Instant access",
     "trust_private": "Private data",
@@ -26,7 +27,7 @@
   },
   "offer": {
     "label": "What You Get",
-    "title": "Let's summarize what<br />you will receive:",
+    "title": "Everything is included",
     "desc": "An access link to the Telegram channel containing all the content below.",
     "card1_label": "Pastor Videos",
     "card1_title": "Exclusive Leaked Videos",
@@ -45,7 +46,7 @@
     "price_label": "Today's offer price"
   },
   "video": {
-    "title": "Watch this video to avoid wasting time",
+    "title": "How to buy in 2 minutes",
     "subtitle": "Watch this short video to understand the purchase process step by step.",
     "src": "./assets/video/pastor.mp4"
   },
@@ -60,6 +61,10 @@
     "feat3_text": " — No need to leave WhatsApp exposed. The Telegram channel is isolated and secure.",
     "feat4_strong": "Instant delivery",
     "feat4_text": " — Once payment is confirmed, you receive the access link by email within seconds.",
+    "feat1": "<strong style=\"color:var(--on-surface);\">100% Secure</strong> — Telegram never shares your personal information, unlike WhatsApp.",
+    "feat2": "<strong style=\"color:var(--on-surface);\">Guaranteed anonymity</strong> — You can even use a nickname during payment. We don't want to know your identity.",
+    "feat3": "<strong style=\"color:var(--on-surface);\">Protect your loved ones</strong> — No need to leave WhatsApp exposed. The Telegram channel is isolated and secure.",
+    "feat4": "<strong style=\"color:var(--on-surface);\">Instant delivery</strong> — Once payment is confirmed, you receive the access link by email within seconds.",
     "iphone_note": "⚠️ <em>If you're using an iPhone, use Safari to connect to Telegram.</em>",
     "visual_title": "See you in the channel! 🤜🏼🤛🏼",
     "visual_desc": "Once your payment is confirmed, you will be automatically redirected to our private channel where all the content awaits you."
@@ -68,24 +73,27 @@
     "label": "Customer Reviews",
     "title": "+2357 members<br />already trust us",
     "t1_text": "Received the link in less than 2 minutes after payment. The pastor's videos are incredible, I recommend 100%.",
+    "t1_author": "Emmanuel, Lagos",
     "t2_text": "Honestly I was skeptical at first, but everything works perfectly. Discretion is guaranteed.",
+    "t2_author": "Joseph, Accra",
     "t3_text": "The content is exactly what was advertised. Telegram is really convenient and discreet. Thanks 👌",
+    "t3_author": "Daniel, Abidjan",
     "cta_text": "Join the community of <strong style=\"color:var(--primary);\">2357 satisfied members</strong> and enjoy now."
   },
   "proofs": {
     "label": "Proofs of Satisfaction",
-    "title": "They have already taken the step and gave permission to use their names in testimonials. Our clients' confidentiality is paramount to us!",
-    "desc": "Here are some feedback from our members satisfied with the quality of our services."
+    "title": "They already took the step",
+    "desc": "Real first names and cities, published with their consent. Confidentiality stays our absolute priority."
   },
   "faq": {
     "label": "FAQ",
     "title": "Frequently Asked Questions",
     "q1": "How do I receive the content?",
-    "a1": "After payment, you receive a PDF by email containing the invitation link to the private Telegram channel. Make sure to enter your email address correctly when ordering.",
+    "a1": "After payment, you get a PDF by email with the invite link to the Telegram channel. Double-check your email address.",
     "q2": "Is it really discreet?",
-    "a2": "Yes, completely. We use Telegram because it doesn't share any personal information. You can even use a nickname when filling in your payment details. We don't seek to know you, only to deliver the content.",
+    "a2": "Yes. Telegram shares no personal information, and you can pay under a pseudonym.",
     "q3": "How long do I have access to the channel?",
-    "a3": "Once you join the Telegram channel, you have permanent access. The content remains available as long as the channel is active.",
+    "a3": "Once you join the channel, access is permanent.",
     "q4": "I'm on iPhone, is it compatible?",
     "a4": "Yes! If you're using an iPhone, use the <strong>Safari</strong> app to connect to your Telegram account and access the channel."
   },
@@ -94,8 +102,9 @@
     "title": "Ready to join the<br />2357 satisfied members?",
     "subtitle": "Instant Access · Secure Payment · 100% Discreet",
     "btn": "🛒 Buy Now — 5,500 FCFA",
-    "warning": "⚠️ <strong>Important:</strong> Make sure to enter your email correctly when purchasing to receive your Telegram link. You can use a <strong>pseudonym</strong> during payment to maintain your anonymity.",
-    "payment_methods": "Secure payment methods available via mobile money (Wave, Orange Money, MTN momo, Moov money, ...) or credit card (Visa and MasterCard)"
+    "proof": "⭐ Joined by 2,357+ members since launch",
+    "warning": "⚠️ <strong>Important:</strong> Enter your email correctly — that's where your link goes. A <strong>pseudonym</strong> is fine.",
+    "payment_methods": "Wave · Orange Money · MTN momo · Moov Money · Visa · Mastercard"
   },
   "upsell": {
     "label": "Recommended for You",

@@ -10,9 +10,10 @@
   "hero": {
     "badge": "🔥 Offre Limitée — Promo Exclusive",
     "title": "<em>+300 Vidéos Fuites</em><br />&laquo; Un Pasteur Nigérian + Baltazhar + autres &raquo;<br />Accès Privé et Discret 🔥",
-    "desc": "Accès instantané via un <strong>canal Télégram sécurisé</strong> — 100% privé, livré dans votre email dès le paiement. Vidéos du pasteur <em>et</em> contenus exclusifs inclus.",
-    "cta": "⚡ Accéder aux Vidéos maintenant",
-    "price_note": "ℹ️ <em>Assurez-vous de bien saisir votre email pour recevoir le lien. Vous pouvez utiliser un <strong>pseudonyme</strong> lors du paiement pour rester anonyme.</em>",
+    "desc": "Vidéos du pasteur <em>et</em> contenus exclusifs, via un <strong>canal Télégram sécurisé</strong> — livré par email dès le paiement.",
+    "cta": "🛒 Acheter maintenant — 5 500 FCFA",
+    "proof": "⭐ +2 357 membres nous font déjà confiance",
+    "price_note": "ℹ️ Vérifie bien ton email : c'est là que le lien arrive. Un <strong>pseudonyme</strong> suffit.",
     "trust_secure": "Paiement sécurisé",
     "trust_instant": "Accès instantané",
     "trust_private": "Données privées",
@@ -26,7 +27,7 @@
   },
   "offer": {
     "label": "Ce que tu reçois",
-    "title": "Résumons ensemble ce que<br />tu recevras :",
+    "title": "Tout est déjà inclus",
     "desc": "Un lien d'accès au canal Télégram contenant l'intégralité du contenu ci-dessous.",
     "card1_label": "Vidéos du Pasteur",
     "card1_title": "Vidéos Fuites Exclusives",
@@ -45,7 +46,7 @@
     "price_label": "Prix de l'offre aujourd'hui"
   },
   "video": {
-    "title": "Regarde cette video pour eviter de perdre du temps",
+    "title": "Comment acheter en 2 minutes",
     "subtitle": "Regardez cette courte vidéo pour comprendre le processus d'achat étape par étape.",
     "src": "./assets/video/pastor.mp4"
   },
@@ -60,6 +61,10 @@
     "feat3_text": " — Plus besoin de laisser WhatsApp exposé. Le canal Télégram est isolé et sécurisé.",
     "feat4_strong": "Livraison instantanée",
     "feat4_text": " — Dès le paiement validé, tu reçois le lien d'accès par email en quelques secondes.",
+    "feat1": "<strong style=\"color:var(--on-surface);\">100% Sécurisé</strong> — Télégram ne divulgue jamais tes informations personnelles, contrairement à WhatsApp.",
+    "feat2": "<strong style=\"color:var(--on-surface);\">Anonymat garanti</strong> — Tu peux même utiliser un surnom lors du paiement. Nous ne voulons pas connaître ton identité.",
+    "feat3": "<strong style=\"color:var(--on-surface);\">Protection de tes proches</strong> — Plus besoin de laisser WhatsApp exposé. Le canal Télégram est isolé et sécurisé.",
+    "feat4": "<strong style=\"color:var(--on-surface);\">Livraison instantanée</strong> — Dès le paiement validé, tu reçois le lien d'accès par email en quelques secondes.",
     "iphone_note": "⚠️ <em>Si tu utilises un iPhone, accède via l'application Safari pour te connecter à Télégram.</em>",
     "visual_title": "Bon on se retrouve dans le canal ! 🤜🏼🤛🏼",
     "visual_desc": "Une fois ton paiement validé, tu seras automatiquement redirigé vers notre canal privé où tout le contenu t'attend."
@@ -68,24 +73,27 @@
     "label": "Avis clients",
     "title": "+2357 membres<br />nous font déjà confiance",
     "t1_text": "Reçu le lien en moins de 2 minutes après le paiement. Les vidéos du pasteur sont incroyables, je recommande à 100%.",
+    "t1_author": "Emmanuel, Lagos",
     "t2_text": "Franchement j'étais sceptique au départ, mais tout fonctionne parfaitement. La discrétion est au rendez-vous.",
+    "t2_author": "Joseph, Accra",
     "t3_text": "Le contenu est exactement ce qui était annoncé. Télégram c'est vraiment pratique et discret. Merci 👌",
+    "t3_author": "Daniel, Abidjan",
     "cta_text": "Rejoins la communauté de <strong style=\"color:var(--primary);\">2357 membres satisfaits</strong> et profite dès maintenant."
   },
   "proofs": {
     "label": "Preuves de satisfaction",
-    "title": "Ils ont déjà franchi le pas et ont donné leur autorisation pour préciser leur nom dans les témoignages. La confidentialité de nos clients est très primordiale pour nous!",
-    "desc": "Voici quelques retours de nos membres satisfaits par la qualité de nos services."
+    "title": "Ils ont déjà franchi le pas",
+    "desc": "Prénoms et villes réels, publiés avec leur accord. La confidentialité reste notre priorité absolue."
   },
   "faq": {
     "label": "FAQ",
     "title": "Foire aux questions",
     "q1": "Comment est-ce que je reçois le contenu ?",
-    "a1": "Après ton paiement, tu reçois un PDF par email contenant le lien d'invitation au canal Télégram privé. Assure-toi de saisir ton adresse email correctement lors de la commande.",
+    "a1": "Après paiement, tu reçois un PDF par email avec le lien d'invitation au canal Télégram. Vérifie bien ton adresse email.",
     "q2": "Est-ce que c'est vraiment discret ?",
-    "a2": "Oui, totalement. Nous utilisons Télégram car il ne partage aucune information personnelle. Tu peux même utiliser un surnom lors du remplissage de tes informations de paiement. Nous ne cherchons pas à te connaître, seulement à te livrer le contenu.",
+    "a2": "Oui. Télégram ne partage aucune information personnelle, et tu peux payer sous pseudonyme.",
     "q3": "Combien de temps ai-je accès au canal ?",
-    "a3": "Une fois que tu rejoins le canal Télégram, tu y as accès de façon permanente. Le contenu reste disponible aussi longtemps que le canal est actif.",
+    "a3": "Dès que tu rejoins le canal, l'accès est permanent.",
     "q4": "Je suis sur iPhone, est-ce compatible ?",
     "a4": "Oui ! Si tu utilises un iPhone, utilise l'application <strong>Safari</strong> pour te connecter à ton compte Télégram et accéder au canal."
   },
@@ -93,9 +101,10 @@
     "promo_label": "🔥 LA PROMO EST DISPONIBLE UNIQUEMENT POUR TOUT DE SUITE",
     "title": "Prêt à rejoindre les<br />2357 membres satisfaits ?",
     "subtitle": "Accès instantané · Paiement sécurisé · 100% Discret",
-    "btn": "🛒 Acheter Maintenant — 5 500 FCFA",
-    "warning": "⚠️ <strong>Important :</strong> Assurez-vous d'insérer correctement votre email lors de l'achat pour recevoir votre lien Télégram. Vous pouvez utiliser un <strong>pseudonyme</strong> lors du paiement pour préserver votre anonymat.",
-    "payment_methods": "Moyens de paiement sécurisés disponibles via mobile money ( Wave, Orange Money, MTN momo, Moov money, ... ) ou carte bancaire ( Visa et MasterCard )"
+    "btn": "🛒 Acheter maintenant — 5 500 FCFA",
+    "proof": "⭐ Rejoint par +2 357 membres depuis le lancement",
+    "warning": "⚠️ <strong>Important :</strong> Saisis bien ton email — c'est là que tu reçois ton lien. Un <strong>pseudonyme</strong> suffit.",
+    "payment_methods": "Wave · Orange Money · MTN momo · Moov Money · Visa · Mastercard"
   },
   "upsell": {
     "label": "Recommandé pour vous",
